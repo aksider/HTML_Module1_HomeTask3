@@ -161,7 +161,7 @@ body{
 }
 
 .footerMenu {
-    clear: right;
+    clear: both;
 
     height: 40px;
     padding-left: 24px;
