@@ -132,24 +132,21 @@ body{
     margin-bottom: 50px;
 }
 
-.itemImageBox {
+.itemImage {
     display: block;
-    height: 400px;
+    height: 350px;
     border: 1px solid #c8c8c8;
     margin-bottom: 40px;
 
     background-color: #ffffff;
-}
-
-.itemImage {
-    display: block;
-    margin:0 auto;
-    margin-top: 47px;
+    
+    padding-top: 47px;
+    text-align: center;
 }
 
 .itemText {
     display: block;
-    padding: 0 25px 25px 25px;
+    padding: 0 25px 0px 25px;
     
     font-size: 14px;
     line-height: 21px;
